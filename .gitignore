@@ -1,0 +1,5 @@
+# Visual Studio 缓存/临时文件
+.vs/
+*.suo
+*.user
+*.sln.docstates
